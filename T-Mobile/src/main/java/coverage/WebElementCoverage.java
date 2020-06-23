@@ -11,5 +11,12 @@ public class WebElementCoverage {
     public static final String webSearch = "//*[@id=\"digital-header-utility-3\"]/span[2]";
     public static final String webLogo = "digital-header-logo-img";
     public static final String webFindStore = "//*[@id=\"digital-header-utility-0\"]/span[2]";
+    public static final String webPhoneDevice = "//*[@id=\"digital-footer-category-name-0\"]";
+    public static final String webPhones = "//*[@id=\"digital-footer-panel-0\"]/div/div[2]/div[1]";
+    public static final String webTablets = "//*[@id=\"digital-footer-categorized-link-0-1\"]";
+    public static final String webDataPass = "//*[@id=\"digital-footer-categorized-link-2-5\"]";
+    public static final String webPayMyBill = "//*[@id=\"digital-footer-categorized-link-7-0\"]";
+    public static final String webOurStory = "//*[@id=\"digital-footer-categorized-link-9-0\"]";
+    public static final String webContactUs = "//*[@id=\"digital-footer-categorized-link-6-0\"]";
 
 }
